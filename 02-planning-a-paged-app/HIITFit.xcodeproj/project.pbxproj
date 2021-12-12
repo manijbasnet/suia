@@ -60,6 +60,13 @@
 		288ED6ED2766855E00432111 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				CD30C925251474DC0049DB93 /* ContentView.swift */,
+				28805A4B276601D6009B26CC /* WelcomeView.swift */,
+				28805A49276601C8009B26CC /* ExerciseView.swift */,
+				28805A4D2766194E009B26CC /* HeaderView.swift */,
+				28A40BD82766694D00C25072 /* HistoryView.swift */,
+				28805A4F276624CD009B26CC /* RatingView.swift */,
+				28A40BDA27667BFE00C25072 /* SuccessView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -83,13 +90,6 @@
 		CD30C922251474DC0049DB93 /* HIITFit */ = {
 			isa = PBXGroup;
 			children = (
-				CD30C925251474DC0049DB93 /* ContentView.swift */,
-				28805A4B276601D6009B26CC /* WelcomeView.swift */,
-				28805A49276601C8009B26CC /* ExerciseView.swift */,
-				28805A4D2766194E009B26CC /* HeaderView.swift */,
-				28A40BD82766694D00C25072 /* HistoryView.swift */,
-				28805A4F276624CD009B26CC /* RatingView.swift */,
-				28A40BDA27667BFE00C25072 /* SuccessView.swift */,
 				CD30C923251474DC0049DB93 /* HIITFitApp.swift */,
 				288ED6ED2766855E00432111 /* Views */,
 				CD30C93D25147A8C0049DB93 /* DateExtension.swift */,
