@@ -52,8 +52,7 @@ struct SuccessView: View {
                   Remember tomorrow's another day.
                   So eat well and get some rest.
                   """)
-                  .multilineTextAlignment(.center)
-                  .foregroundColor(.gray)
+                    .foregroundColor(.gray)
             }
         }
     }
